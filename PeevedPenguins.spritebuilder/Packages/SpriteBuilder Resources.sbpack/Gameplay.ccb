@@ -494,7 +494,7 @@
 										<key>value</key>
 										<array>
 											<real>235.27999877929688</real>
-											<real>200.80000305175781</real>
+											<real>187.80000305175781</real>
 											<integer>0</integer>
 											<integer>0</integer>
 											<integer>0</integer>
@@ -568,6 +568,8 @@
 										<array/>
 									</dict>
 								</array>
+								<key>selected</key>
+								<true/>
 							</dict>
 							<dict>
 								<key>UUID</key>
@@ -819,8 +821,6 @@
 										<array/>
 									</dict>
 								</array>
-								<key>selected</key>
-								<true/>
 							</dict>
 						</array>
 						<key>customClass</key>
