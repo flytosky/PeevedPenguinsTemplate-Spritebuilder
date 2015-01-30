@@ -745,7 +745,7 @@
 										<key>value</key>
 										<array>
 											<real>0.0</real>
-											<real>1.440000057220459</real>
+											<real>0.0</real>
 											<integer>0</integer>
 											<integer>0</integer>
 											<integer>0</integer>
@@ -819,6 +819,8 @@
 										<array/>
 									</dict>
 								</array>
+								<key>selected</key>
+								<true/>
 							</dict>
 						</array>
 						<key>customClass</key>
@@ -1433,7 +1435,7 @@
 			<key>name</key>
 			<string>Default Timeline</string>
 			<key>offset</key>
-			<real>5.8885297775268555</real>
+			<real>3.3883771896362305</real>
 			<key>position</key>
 			<real>9.3666667938232422</real>
 			<key>resolution</key>
