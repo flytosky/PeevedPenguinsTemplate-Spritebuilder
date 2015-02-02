@@ -148,7 +148,7 @@ static const float MIN_SPEED = 5.f;
     explosion.position = seal.position;
     // add the particle effect to the same node the seal is on
     [seal.parent addChild:explosion];
-    
+    NSLog(@"seal is removed");
     // finally, remove the destroyed seal
     [seal removeFromParent];
 }
