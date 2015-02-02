@@ -166,7 +166,7 @@ static const float MIN_SPEED = 5.f;
 
 - (void)update:(CCTime)delta
 {
-    if (){
+    if (_currentPenguin.launched){
         // if speed is below minimum speed, assume this attempt is over
         if (ccpLength(_currentPenguin.physicsBody.velocity) < MIN_SPEED){
             [self nextAttempt];
